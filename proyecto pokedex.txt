@@ -1,0 +1,54 @@
+***************************************************************************************
+***********************************POKEDEX PROJECT************************************* 
+***************************************************************************************
+
+
+Crearemos una pokedex con Ts con POO y asi poder practicar de mejor manera...
+
+Los datos que tendra la pokedex seran los siguientes:
+
+1. Nombre del Pokemon
+2. Tipo del Pokemon
+3. No. de la pokedex que corresponda a la pokedex
+4. Nivel en que evoluciona o evoluciono o si necesito de algun metodo para evolucionar
+5. Descripcion breve del Pokemon
+
+
+
+Tambien crearemos un menu donde a parte de la pokedex este un equipo del jugador...
+
+Los datos que tendran los Pokemon seran:
+
+1. Nombre del Pokemon
+2. Nivel
+3. vida actual y vida max
+
+Al momento de Clickear en el pokemon se abrira una nueva informacion del pokemon...
+
+Los datos que tendran los Pokemon seran:
+
+1. Nombre del Pokemon
+2. Nivel
+3. vida actual
+4. Tipo del Pokemon
+5. Genero
+
+
+
+
+
+
+
+git remote add origin https://github.com/AlexisDLaFuente/Raidenalemon.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
